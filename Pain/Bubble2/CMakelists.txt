@@ -1,0 +1,5 @@
+project(bubble_hard)
+
+add_executable(bubble_trash ${main.cpp})
+
+add_subdirectory(Surse)
