@@ -1,9 +1,9 @@
-target_sources(Bubble2 
+target_sources(bubble_hard 
 	PUBLIC
 		bubble_sort.cpp
 		bubble_sort.hpp
 )
 
-target_include_directories(Bubble2 PUBLIC
-	${PROJECT_SOURCE_DIR}/Bubble2/Surse
+target_include_directories(bubble_hard PUBLIC
+	${PROJECT_SOURCE_DIR}/Surse
 )

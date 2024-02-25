@@ -8,4 +8,5 @@ add_subdirectory(Теория1)
 add_subdirectory(Теория2)
 add_subdirectory(обучайка)
 
+
 set(CMAKE_SUPPRESS_REGENERATION true)
