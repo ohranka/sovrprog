@@ -7,6 +7,6 @@ add_subdirectory(Bubble2)
 add_subdirectory(Теория1)
 add_subdirectory(Теория2)
 add_subdirectory(обучайка)
-
+add_subdirectory(Тест)
 
 set(CMAKE_SUPPRESS_REGENERATION true)
