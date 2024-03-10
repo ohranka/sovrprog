@@ -1,7 +1,7 @@
 #include <gmock/gmock.h>
 #include <gtest/gtest.h>
 
-#include "bubble_hard2.hpp"
+#include "bubble_sort.hpp"
 
 TEST(ArraysEqual, AnyElementsCount) {
 	std::vector<int> actual = {1, 8, 2, 5, 3, 11};

@@ -5,5 +5,5 @@ target_sources(bubble_hard2
 )
 
 target_include_directories(bubble_hard2 PUBLIC
-	${PROJECT_SOURCE_DIR}/Surse
+	${PROJECT_SOURCE_DIR}/src
 )
