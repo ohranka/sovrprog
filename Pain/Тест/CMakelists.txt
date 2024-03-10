@@ -1,0 +1,6 @@
+project(unit_test_example)
+
+add_library(bubble_hard2 "")
+
+add_subdirectory(src)
+add_subdirectory(test)
