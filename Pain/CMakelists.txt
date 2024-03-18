@@ -7,6 +7,7 @@ add_subdirectory(lib/googletest)
 
 add_subdirectory(Bubble)
 add_subdirectory(Bubble2)
+add_subdirectory(scl)
 add_subdirectory(Теория1)
 add_subdirectory(Теория2)
 add_subdirectory(обучайка)
